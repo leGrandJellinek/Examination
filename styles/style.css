@@ -90,3 +90,14 @@ a{
     flex-direction: column;
     height: 100%;
 }
+
+
+
+/* Main Start*/
+
+.main{
+    background: black;
+    height: 100vh;
+}
+
+/* Main End */
